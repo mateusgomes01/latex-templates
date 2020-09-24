@@ -1,4 +1,4 @@
-# Luke's LaTeX Templates and Build Files
+# Mateu's personal LaTeX Templates, cloned from Luke's LaTeX Templates and Build Files
 
 A couple people on YouTube have asked me for my LaTeX templates, so I'm pushing them here. You can also find my compiled bibliography sheet.
 
