@@ -1,5 +1,11 @@
 # Mateu's personal LaTeX Templates, cloned from Luke's LaTeX Templates and Build Files
 
+## My ReadMe:
+
+I'm still making my CV, so some of Luke's acomplishments might still apear on my version. Ops! lmao
+
+## Luke's original ReadMe:
+
 A couple people on YouTube have asked me for my LaTeX templates, so I'm pushing them here. You can also find my compiled bibliography sheet.
 
 Most of them, like the article template, really aren't too different from the normal LaTeX form, but call all the packages I use on a daily basis.
