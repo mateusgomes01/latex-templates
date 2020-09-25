@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.9.17)  24 SEP 2020 14:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.9.17)  25 SEP 2020 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1359,13 +1359,13 @@ Overfull \hbox (1.66666pt too wide) in paragraph at lines 142--155
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 169.
+(Font)              scaled to size 10.0pt on input line 171.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+s
 mcp;mapping=tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 .otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 169.
+(Font)              scaled to size 10.0pt on input line 171.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
@@ -1373,7 +1373,7 @@ B.otf
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 169.
+(Font)              scaled to size 10.0pt on input line 171.
 Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
@@ -1382,15 +1382,15 @@ File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
-[1
-
-]
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
+[1
+
+]
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 File: cv/yt.png Graphic file (type bmp)
@@ -1400,20 +1400,19 @@ File: cv/pdf.png Graphic file (type bmp)
 File: cv/yt.png Graphic file (type bmp)
 <cv/yt.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/it' will be
-(Font)              scaled to size 10.0pt on input line 288.
+(Font)              scaled to size 10.0pt on input line 266.
 Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;+tnum;+lnum;
 mapping=tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 BO.otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 298.
+(Font)              scaled to size 8.0pt on input line 276.
 Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 I.otf
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
- [2]
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 File: cv/pdf.png Graphic file (type bmp)
@@ -1421,39 +1420,40 @@ File: cv/pdf.png Graphic file (type bmp)
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 341.
+(Font)              scaled to size 7.0pt on input line 319.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;ma
 pping=tex-text;" at 7.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 .otf
+ [2]
 File: cv/yt.png Graphic file (type bmp)
 <cv/yt.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 347.
+(Font)              scaled to size 12.0pt on input line 325.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;ma
 pping=tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 .otf
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 347.
+(Font)              scaled to size 12.0pt on input line 325.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 B.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 347.
+(Font)              scaled to size 12.0pt on input line 325.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_
 R.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 347.
+(Font)              scaled to size 8.0pt on input line 325.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_
 R.otf
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 347.
+(Font)              scaled to size 6.0pt on input line 325.
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;m
 apping=tex-text;" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_
@@ -1471,11 +1471,11 @@ Requested font "cmsy8" at 8.0pt
 Requested font "cmsy6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 347.
+(Font)              <12> on input line 325.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 347.
+(Font)              <8> on input line 325.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 347.
+(Font)              <6> on input line 325.
 Requested font "cmr12" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 Requested font "cmr8" at 8.0pt
@@ -1483,7 +1483,7 @@ Requested font "cmr8" at 8.0pt
 Requested font "cmr6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 7.0pt on input line 349.
+(Font)              scaled to size 7.0pt on input line 327.
 Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;mapping
 =tex-text;" at 7.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
@@ -1502,13 +1502,13 @@ File: cv/gh.png Graphic file (type bmp)
 <cv/gh.png>
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
+File: cv/yt.png Graphic file (type bmp)
+<cv/yt.png>
  [3]
 File: cv/yt.png Graphic file (type bmp)
 <cv/yt.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 7.0pt on input line 429.
+(Font)              scaled to size 7.0pt on input line 407.
 Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+s
 mcp;mapping=tex-text;" at 7.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
@@ -1523,13 +1523,13 @@ File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
- [4]
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 File: cv/gh.png Graphic file (type bmp)
 <cv/gh.png>
+ [4]
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 File: cv/yt.png Graphic file (type bmp)
@@ -1542,15 +1542,15 @@ File: cv/email.png Graphic file (type bmp)
 <cv/email.png>
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 545.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 523.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 545.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 523.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 545.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 545.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 523.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 523.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 62ABB2FE00D63E4661071C83918D5A45;850.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 545.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 523.
  ) 
 Here is how much of TeX's memory you used:
  22261 strings out of 479819
