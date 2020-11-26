@@ -2,7 +2,7 @@
 
 ## My ReadMe:
 
-I'm still making my CV, so some of Luke's acomplishments might still apear on my version. Ops! lmao
+CV last updated at november 26th of 2020
 
 ## Luke's original ReadMe:
 
